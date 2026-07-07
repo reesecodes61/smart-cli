@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-07-07T14:42:28Z
-Entry: fix: resolve null pointer exception in stream parser
-Sequence: 20/59
+Last updated: 2026-07-07T15:26:37Z
+Entry: docs: document configuration parameters and environment variables
+Sequence: 21/59
